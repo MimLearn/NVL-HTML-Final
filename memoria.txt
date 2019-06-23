@@ -1,0 +1,10 @@
+Con el propósito de aplicar todo lo visto en el módulo he dividido la práctica en 4 documentos .html:
+*Presentación
+*Quiénes somos
+*Nuestros servicios
+*Contactos
+
+En el fichero presentacion.html describía los servicios de la web, insertaba títulos e imágenes e incluía enlaces al resto de ficheros .html.
+En el fichero quienessomos.html, distribuía el espacio del documento en elementos de tipo <div></div> e insertaba párrafos e imágenes además de los enlaces al resto de ficheros .html.
+En el fichero nuestrosservicios.html he insertado una tabla sin caption (no me gustaba la estética) y mantenía el estilo uniforme de la página.
+En el fichero formcontacto.html he realizado un formulario con los elementos vistos en el prework.
